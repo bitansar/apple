@@ -1,0 +1,42 @@
+.intro{
+    height: 700px;
+    background-image: url(hero__cj6i78tzkp8i_large.jpg);
+    background-size:  50%;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: bottom;
+}
+.intro-title{
+    font-size: 48px;
+    font-weight: 700;
+}
+.intro-title-2{
+    font-size: 25px;
+}
+.intro-title-3{
+    font-size: 20px;
+}
+.intro-title-3 a{
+    text-decoration: none;
+}
+.homepage{
+    height: 700px;
+    background-image: url(hero__cj6i78tzkp8i_large.jpg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+}
+.homepages{
+    
+}
+footer{
+    background-color: #f5f5f7;
+}
+.footer-link a{
+    color:#6e6e73;
+    text-decoration: none;
+}
+.footer-link a:hover{
+    text-decoration: underline;
+}
